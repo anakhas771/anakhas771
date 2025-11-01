@@ -78,3 +78,8 @@ I'm always exploring new tools, improving my skills, and learning through hands-
 
 ---
 
+<!-- Snake Contribution Graph -->
+<p align="center">
+  <img src="https://github.com/aniketambore/aniketambore/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
