@@ -77,12 +77,3 @@ I'm always exploring new tools, improving my skills, and learning through hands-
 
 
 ---
-
-<!-- Snake Contribution Graph -->
-<!-- Moving Contribution Grid Snake -->
-<p align="center">
-  <a href="https://github.com/anakhas771/anakhas771">
-    <img src="https://raw.githubusercontent.com/anakhas771/anakhas771/main/dist/github-snake.svg" 
-         alt="Contribution Grid Snake" />
-  </a>
-</p>
