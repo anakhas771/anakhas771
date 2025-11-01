@@ -82,7 +82,7 @@ I'm always exploring new tools, improving my skills, and learning through hands-
 <!-- Moving Contribution Grid Snake -->
 <p align="center">
   <a href="https://github.com/anakhas771/anakhas771">
-    <img src="https://raw.githubusercontent.com/anakhas771/anakhas771/output/github-contribution-grid-snake.svg" 
+    <img src="https://raw.githubusercontent.com/anakhas771/anakhas771/main/dist/github-snake.svg" 
          alt="Contribution Grid Snake" />
   </a>
 </p>
