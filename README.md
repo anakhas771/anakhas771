@@ -1,5 +1,4 @@
-
-<h2 align="left">Hey there!👋</h2>
+<h1 align="left">Hey there!👋</h2>
 I'm Anakha, a Python Full Stack Developer based in Kerala, India.
 
 I design and build whatever I can imagine.
