@@ -1,16 +1,19 @@
-<!-- Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&width=435&lines=Hi%2C+I'm+Anakha+S+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Django+%7C+SQL;Always+learning+new+things+%F0%9F%93%9A" alt="Typing SVG" />
-</h1>
+###  **Hey there!🙋🏻‍♀️**
+I'm Anakha, a Python Full Stack Developer based in Kerala, India.
 
----
+I design and build whatever I can imagine.
 
-### 👩‍💻 About Me  
-I'm a **Full Stack Developer** who enjoys turning ideas into real web applications using clean, maintainable code.  
-I mainly work with **React** on the frontend and **Django / DRF** on the backend, and I love building projects that solve real problems.  
+If an idea pops into my head, chances are i'll build it 😉.
+
+I mainly work with **React** on the frontend and **Django / DRF** on the backend. 
+
 I'm always exploring new tools, improving my skills, and learning through hands-on development.
 
----
+Fun Facts:
+ - I have two dogs
+ - I dont like tea
+ - Demon Slayer and Stranger Things are my favorite series
+ - **Hobbies**: basketball, cricket, building things
 
 ### 🔧 Tech Stack & Tools
 
@@ -50,29 +53,3 @@ I'm always exploring new tools, improving my skills, and learning through hands-
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anakhas771&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakhas771&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anakhas771&theme=tokyonight" />
-</p>
-
----
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anakhas771&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-### 📬 Connect With Me  
-📧 Email: *anakhas771@gmail.com*  
-💼 LinkedIn: *https://www.linkedin.com/in/anakha-s-a76081356/*  
-
-
----
