@@ -21,6 +21,6 @@ Fun Facts:
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,python,django,nodejs,html,css,tailwind,bootstrap,redux,mongodb,mysql,postgresql,git,github,docker,vscode,pycharm,postman,npm,nextjs,photoshop,illustrator&perline=12" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,python,django,nodejs,html,css,tailwind,bootstrap,redux,mongodb,mysql,postgresql,git,github,docker,vscode,pycharm,postman,npm,nextjs,photoshop,illustrator,aws,azure,eclipse,fastapi&perline=14" />
   </a>
 </p>
