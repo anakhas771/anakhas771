@@ -1,4 +1,4 @@
-<h1 align="left"> Hey there, I'm Anakha! 👋</h2>
+<h1 align="left"> Hey there👋</h2>
 
 I'm Anakha, a Python Full Stack Developer based in Kerala, India.
 
@@ -24,6 +24,6 @@ I'm always exploring new tools, improving my skills, and learning through hands-
 <h2 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,python,django,nodejs,html,css,tailwind,bootstrap,redux,mongodb,mysql,postgresql,git,github,docker,vscode,pycharm,postman,npm,nextjs,photoshop,illustrator,aws,azure,eclipse,fastapi&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,nextjs,python,django,nodejs,redux,mongodb,mysql,postgresql,docker,fastapi,aws,azure,html,css,tailwind,bootstrap,git,github,vscode,pycharm,postman,npm,eclipse,photoshop,illustrator,&perline=14" />
   </a>
 </p>
