@@ -1,14 +1,14 @@
-<h1 align="left"> Hey there👋</h2>
+<h2 align="left">👋 Welcome to my profile! I'm Anakha S</h3>
 
-I'm Anakha, a Python Full Stack Developer based in Kerala, India.
+- 🌐 Full Stack Web Developer based in Kerala, India.
 
-I design and build whatever I can imagine.
+- 💡 I design and build whatever I can imagine.
 
-If an idea pops into my head, chances are I'll build it 😉
+- 😉 If an idea pops into my head, chances are I'll build it. 
 
-I mainly work with **React** on the frontend and **Django / DRF** on the backend. 
+- 💻 I mainly work with **React** on the frontend and **Django / DRF** on the backend. 
 
-I'm always exploring new tools, improving my skills, and learning through hands-on development.
+- ⭐ I'm always exploring new tools, improving my skills, and learning through hands-on development.
 
 **Fun Facts**:
 -  I have two dogs 
@@ -27,3 +27,6 @@ I'm always exploring new tools, improving my skills, and learning through hands-
     <img src="https://skillicons.dev/icons?i=react,javascript,typescript,nextjs,python,django,nodejs,redux,mongodb,mysql,postgresql,docker,fastapi,aws,azure,html,css,tailwind,bootstrap,git,github,vscode,pycharm,postman,npm,eclipse,photoshop,illustrator,&perline=14" />
   </a>
 </p>
+
+
+Feel free to connect via email at "anakhas771@gmail.com" Let's collaborate and create something amazing! 😊🚀
