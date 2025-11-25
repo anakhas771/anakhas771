@@ -1,23 +1,24 @@
 <h2 align="left">👋 Welcome to my profile! I'm Anakha S</h3>
 
-- 🌐 Full Stack Web Developer based in Kerala, India.
+- Full Stack Web Developer based in Kerala, India.
 
-- 💡 I design and build whatever I can imagine.
+- I design and build whatever I can imagine.
 
-- 😉 If an idea pops into my head, chances are I'll build it. 
+- If an idea pops into my head, chances are I'll build it 😉. 
 
-- 💻 I mainly work with **React** on the frontend and **Django / DRF** on the backend. 
+- I mainly work with **React** on the frontend and **Django / DRF** on the backend. 
 
-- ⭐ I'm always exploring new tools, improving my skills, and learning through hands-on development.
+- I'm always exploring new tools, improving my skills, and learning through hands-on development.
 
 **Fun Facts**:
--  I have two dogs 
+-  I have two dogs 🐶
 
--  I don’t like tea
+-  I don’t like tea ☕
 
--  Demon Slayer and Stranger Things are my favorite series
+-  Demon Slayer and Stranger Things are my favorite series 🎥
 
--  Hobbies: basketball, cricket, and building things
+-  Hobbies: basketball, cricket, and building things 🏅
+
 
 
 
@@ -29,4 +30,7 @@
 </p>
 
 
-Feel free to connect via email at "anakhas771@gmail.com" Let's collaborate and create something amazing! 😊🚀
+---  
+
+Feel free to connect via email at "anakhas771@gmail.com" Let's collaborate and create something amazing! 😊
+
